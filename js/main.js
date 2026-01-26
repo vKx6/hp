@@ -9,7 +9,7 @@ const services = [
   },
   {
     name: 'かっこいいキーボ',
-    description: 'スタイリッシュなキーボードの紹介サイト。',
+    description: 'キーボード専門の情報検索サイト。',
     url: 'https://cool-keyboards.com/',
     status: 'live',
     link_text: 'Visit →',
