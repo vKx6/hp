@@ -120,6 +120,13 @@ body {
   color: var(--soon);
 }
 
+.service-icon {
+  width: 64px;
+  height: 64px;
+  object-fit: contain;
+  margin-bottom: 0.75rem;
+}
+
 .service-card h3 {
   font-size: 1.25rem;
   font-weight: 600;
