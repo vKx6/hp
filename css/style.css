@@ -125,7 +125,8 @@ body {
   width: 64px;
   height: 64px;
   object-fit: contain;
-  margin-bottom: 0.75rem;
+  margin: 0 auto 0.75rem;
+  display: block;
 }
 
 .service-card h3 {
